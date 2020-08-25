@@ -1,0 +1,50 @@
+Salário;C
+Participação nos Lucros;C
+Rendimento Aplicação;C
+Resgate Aplicação;C
+Recebimento Empréstimo;C
+Venda Produto;C
+Prestação de Serviço;C
+Bônus Semestral;C
+Bônus Anual;C
+13o;C
+Palestra;C
+Venda Imóvel;C
+Rendimento Poupança;C
+Aluguel Recebimento;C
+Venda de Ações;C
+Dividendos;C
+Royalties;C
+Bonificação;C
+Ganhos Retroativos;C
+Ganhos Contratuais;
+Porcentagem em Vendas;
+Direitos Autorais;
+Salário;C
+Participação nos Lucros;C
+Rendimento Aplicação;C
+Venda Produto;C
+Prestação de Serviço;C
+Salário;C
+Venda Produto;C
+Prestação de Serviço;C
+IPTU;D
+IPVA;D
+Seguro Carro;D
+Parcela Financiamento;D
+Energia Elétrica Luz;D
+Água;D
+Telefone Fixo;D
+Internet Banda Larga;D
+TV a Cabo;D
+Escola Faculdade;D
+Curso Treinamento;D
+Viagem;D
+Financiamento Imobiliário;D
+Carro Novo;D
+Manutenção Veículo;D
+Casa Nova;D
+Compra de Ações;D
+Pagamento de Serviços;D
+Empréstimo Pagamento;D
+Pagamento de Aluguel;D

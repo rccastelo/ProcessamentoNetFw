@@ -1,0 +1,16 @@
+Estudo de processamento de arquivos em .Net Framework
+
+Leitura, processamento e gravação de arquivos
+Processamento simples e multi thread
+
+Processamento de operações de débito e crédito.
+
+----------------------------------
+
+Compilar arquivo.cs em linha de comando, para criar arquivo.exe
+Obs: Estar do prompt do visual studio, ou no diretório que contém o comando (csc)
+
+csc nome_do_arquivo.cs
+
+Resultado nome_do_arquivo.exe
+
